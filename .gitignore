@@ -1,0 +1,30 @@
+### Gradle ###
+.gradle
+/build/
+*/build/
+*/*/build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+**/out/
+
+### VS Code ###
+.vscode
+
+### Lazybones ###
+.lazybones
+
+### Mac ###
+*/.DS_Store
